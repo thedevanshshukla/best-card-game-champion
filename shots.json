@@ -1,0 +1,6 @@
+[
+  { "name": "01_title.png", "query": "?shot=title" },
+  { "name": "02_battle.png", "query": "?shot=battle" },
+  { "name": "03_combo.png", "query": "?shot=combo" },
+  { "name": "04_victory.png", "query": "?shot=victory" }
+]
