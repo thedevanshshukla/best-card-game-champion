@@ -38,3 +38,4 @@ const dossierContent = buildDossier(out, {
 
 writeFileSync(join(out, 'dossier.json'), dossierContent);
 console.log('Aetherbound hand-in packaged successfully to', out);
+console.log('Dossier generated with byte length:', dossierContent.length);

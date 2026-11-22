@@ -1,5 +1,6 @@
 // Aetherbound: Runes of the Void - Configuration & Card Registry
-// Module: config.js
+// Module: config.js - Author: Devansh Shukla
+// Tactical arcane card duel rules and balanced card catalogue
 
 export const GAME_CONFIG = {
   CANVAS_WIDTH: 1280,
